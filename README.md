@@ -8,7 +8,7 @@ https://roadmap.sh/projects/expense-tracker
   <li><p><b>Update a expense</b></p></li>
   <li><p><b>List all expenses or by category</b></p></li>
   <li><p><b>View summary of all expenses or for a specific month</b></p></li>
-  <li><p><b>Set a budget limit for a month wich will display a warning when exceeded</b></p></li>
+  <li><p><b>Set a budget limit for a month which will display a warning when exceeded</b></p></li>
   <li><p><b>Export expenses to a CSV file</b></p></li>
 </ul>
 <h1>Installation</h1>
